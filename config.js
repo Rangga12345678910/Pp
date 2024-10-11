@@ -18,13 +18,13 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6288221255023']
-global.premium = ['6288221255023']
-global.namaowner = ['NelJagoNyatir']
-global.namabot = ['NelzBot']
-global.packname = 'Created By IpanJagoNyatir'
-global.author = 'NelBotz'
-global.sessionName = 'hisoka'
+global.owner = ['6282155737388']
+global.premium = ['6282155737388']
+global.namaowner = ['AndraGT']
+global.namabot = ['BotAndraGT']
+global.packname = 'Created By AndraGT'
+global.author = 'AndraGT'
+global.sessionName = 'AndraGT'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
